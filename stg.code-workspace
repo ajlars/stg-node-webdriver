@@ -1,0 +1,36 @@
+{
+	"folders": [
+		{
+			"name": "challenge7",
+			"path": "challenge7"
+		},
+		{
+			"name": "challenge6",
+			"path": "challenge6"
+		},
+		{
+			"name": "challenge5",
+			"path": "challenge5"
+		},
+		{
+			"name": "challenge4",
+			"path": "challenge4"
+		},
+		{
+			"name": "challenge3",
+			"path": "challenge3"
+		},
+		{
+			"name": "challenge2",
+			"path": "challenge2"
+		},
+		{
+			"name": "challenge1",
+			"path": "challenge1"
+		},
+		{
+			"name": "shared",
+			"path": "shared"
+		}
+	]
+}
