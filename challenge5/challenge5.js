@@ -3,7 +3,7 @@ var webdriver = require("selenium-webdriver")
 var By = webdriver.By
 var until = webdriver.until
 var assert = require("chai").assert;
-let driverSetup = require("../shared/driverSetup")
+let driverSetup = require("../shared/uiUtilities/driverSetup")
 
 describe("challenge 5 suite", function () {
     this.timeout(20000)

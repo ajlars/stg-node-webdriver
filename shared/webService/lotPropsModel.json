@@ -1,0 +1,363 @@
+{
+    "lotNumberStr": {
+        "type": [
+            "string"
+        ],
+        "required": true
+    },
+    "ln": {
+        "type": [
+            "number"
+        ],
+        "required": false
+    },
+    "mkn": {
+        "type": [
+            "string"
+        ],
+        "required": false
+    },
+    "lm": {
+        "type": [
+            "string"
+        ],
+        "required": false
+    },
+    "lcy": {
+        "type": [
+            "number"
+        ],
+        "required": false
+    },
+    "fv": {
+        "type": [
+            "string"
+        ],
+        "required": false
+    },
+    "la": {
+        "type": [
+            "number"
+        ],
+        "required": false
+    },
+    "rc": {
+        "type": [
+            "number"
+        ],
+        "required": false
+    },
+    "obc": {
+        "type": [
+            "string"
+        ],
+        "required": false
+    },
+    "orr": {
+        "type": [
+            "number"
+        ],
+        "required": false
+    },
+    "ord": {
+        "type": [
+            "string"
+        ],
+        "required": false
+    },
+    "egn": {
+        "type": [
+            "string"
+        ],
+        "required": false
+    },
+    "cy": {
+        "type": [
+            "string"
+        ],
+        "required": false
+    },
+    "ld": {
+        "type": [
+            "string"
+        ],
+        "required": false
+    },
+    "yn": {
+        "type": [
+            "string"
+        ],
+        "required": false
+    },
+    "cuc": {
+        "type": [
+            "string"
+        ],
+        "required": false
+    },
+    "tz": {
+        "type": [
+            "string"
+        ],
+        "required": false
+    },
+    "ad": {
+        "type": [
+            "number"
+        ],
+        "required": false
+    },
+    "at": {
+        "type": [
+            "string"
+        ],
+        "required": false
+    },
+    "aan": {
+        "type": [
+            "number"
+        ],
+        "required": false
+    },
+    "hb": {
+        "type": [
+            "number"
+        ],
+        "required": false
+    },
+    "ss": {
+        "type": [
+            "number"
+        ],
+        "required": false
+    },
+    "bndc": {
+        "type": [
+            "string"
+        ],
+        "required": false
+    },
+    "bnp": {
+        "type": [
+            "number"
+        ],
+        "required": false
+    },
+    "sbf": {
+        "type": [
+            "boolean"
+        ],
+        "required": false
+    },
+    "ts": {
+        "type": [
+            "string"
+        ],
+        "required": false
+    },
+    "stt": {
+        "type": [
+            "string"
+        ],
+        "required": false
+    },
+    "td": {
+        "type": [
+            "string"
+        ],
+        "required": false
+    },
+    "tgc": {
+        "type": [
+            "string"
+        ],
+        "required": false
+    },
+    "dd": {
+        "type": [
+            "string"
+        ],
+        "required": false
+    },
+    "tims": {
+        "type": [
+            "string"
+        ],
+        "required": false
+    },
+    "lic": {
+        "type": [
+            "Array",
+            "string"
+        ],
+        "required": false
+    },
+    "gr": {
+        "type": [
+            "string"
+        ],
+        "required": false
+    },
+    "dtc": {
+        "type": [
+            "string"
+        ],
+        "required": false
+    },
+    "adt": {
+        "type": [
+            "string"
+        ],
+        "required": false
+    },
+    "ynumb": {
+        "type": [
+            "number"
+        ],
+        "required": false
+    },
+    "phynumb": {
+        "type": [
+            "number"
+        ],
+        "required": false
+    },
+    "bf": {
+        "type": [
+            "boolean"
+        ],
+        "required": false
+    },
+    "ymin": {
+        "type": [
+            "number"
+        ],
+        "required": false
+    },
+    "htsmn": {
+        "type": [
+            "string"
+        ],
+        "required": false
+    },
+    "myb": {
+        "type": [
+            "number"
+        ],
+        "required": false
+    },
+    "lmc": {
+        "type": [
+            "string"
+        ],
+        "required": false
+    },
+    "lcc": {
+        "type": [
+            "string"
+        ],
+        "required": false
+    },
+    "bstl": {
+        "type": [
+            "string"
+        ],
+        "required": false
+    },
+    "lcd": {
+        "type": [
+            "string"
+        ],
+        "required": false
+    },
+    "ft": {
+        "type": [
+            "string"
+        ],
+        "required": false
+    },
+    "hk": {
+        "type": [
+            "string"
+        ],
+        "required": false
+    },
+    "drv": {
+        "type": [
+            "string"
+        ],
+        "required": false
+    },
+    "ess": {
+        "type": [
+            "string"
+        ],
+        "required": false
+    },
+    "showSeller": {
+        "type": [
+            "boolean"
+        ],
+        "required": false
+    },
+    "sstpflg": {
+        "type": [
+            "boolean"
+        ],
+        "required": false
+    },
+    "syn": {
+        "type": [
+            "string"
+        ],
+        "required": false
+    },
+    "ifs": {
+        "type": [
+            "boolean"
+        ],
+        "required": false
+    },
+    "pbf": {
+        "type": [
+            "boolean"
+        ],
+        "required": false
+    },
+    "crg": {
+        "type": [
+            "number"
+        ],
+        "required": false
+    },
+    "brand": {
+        "type": [
+            "string"
+        ],
+        "required": false
+    },
+    "sdd": {
+        "type": [
+            "string"
+        ],
+        "required": false
+    },
+    "al": {
+        "type": [
+            "string"
+        ],
+        "required": false
+    },
+    "offFlg": {
+        "type": [
+            "boolean"
+        ],
+        "required": false
+    },
+    "tmtp": {
+        "type": [
+            "string"
+        ],
+        "required": false
+    }
+}

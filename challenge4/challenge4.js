@@ -30,6 +30,6 @@ describe("challenge 4 suite", function () {
         console.log(fibonacci(25))
         console.log(fibonacci(26))
         console.log(fibonacci(30))
-        console.log(fibonacci(35))
+        console.log(fibonacci(64))
     })
 })

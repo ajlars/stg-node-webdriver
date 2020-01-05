@@ -1,5 +1,5 @@
 var webdriver = require("selenium-webdriver")
-
+var TIMEOUT = 60000
 module.exports = setup
 
 /**
@@ -11,6 +11,8 @@ function setup (url) {
         .withCapabilities(webdriver.Capabilities.chrome())
         .build()
     driver.manage().window().maximize()
+    driver.manage().setTimeouts( { implicit: TIMEOUT, pageLoad: 
+            TIMEOUT, script: TIMEOUT } )
     if(url)
         driver.get(url)
     return driver

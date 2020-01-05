@@ -3,8 +3,8 @@ var webdriver = require("selenium-webdriver")
 var By = webdriver.By
 var until = webdriver.until
 var assert = require("chai").assert;
-let driverSetup = require("../shared/driverSetup")
-let screenshot = require('../shared/screenCap')
+let driverSetup = require("../shared/uiUtilities/driverSetup")
+let screenshot = require('../shared/uiUtilities/screenCap')
 
 describe("challenge 6 suite", function () {
     this.timeout(20000)
